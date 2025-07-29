@@ -1,8 +1,0 @@
-# IntelliJ
-.idea/
-*.iml
-
-# Build folders
-out/
-build/
-target/
